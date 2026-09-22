@@ -1,16 +1,16 @@
-## Hi there 👋
+# BigPipe
 
-<!--
-**bigpipe-agency/bigpipe-agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founden for marketing and growth agencies. Describe what you want, and AI builds and runs your website, customer product, back office and automations. Keep changing the working business through conversation.
 
-Here are some ideas to get you started:
+## What your agency can build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Your agency website and service offers
+- Client portals and reporting products
+- Lead generation services and customer workflows
+- Agency-owned products and new businesses
+
+These are examples of what you can build, not customer case studies.
+
+[Start building with BigPipe](https://bigpipe.agency/?utm_source=github&utm_medium=profile&utm_campaign=agency-presence)
+
+BigPipe uses Founden's builder and operating platform, with examples and guidance for agencies.
